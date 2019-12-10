@@ -94,7 +94,7 @@ date: 2015-04-30T22:39:46+00:00
 1)  [WINDSTONE BUFFALO COURIER ARTICLE ][31]
 1)  [How Does a Rural Community Cohere][32]
 
-### Newspaper Articles
+## Newspaper Articles
 
 * [Reflections on home and the Turkey Ridge Valley](http://www.freemansd.com/opinion/article_4bf85b80-bf84-11e5-93a2-93b90d767e55.html) -- January 20, 2016.  Letter to the editor from Lyle Preheim
 * [A local food enterprise. ](/2015/04/A-local-food-enterprise.pdf) --  May 26th, 2016.  <em>Rural Alternatives </em>article in the Freeman Courier written by S. Roy Kaufman
@@ -103,6 +103,21 @@ date: 2015-04-30T22:39:46+00:00
 * [Conventional crops, unconventional practices](/2015/04/Conventional-crops-unconventional-practices.pdf) -- August 25th, 2016 <em>Rural Alternatives </em>article in the Freeman Courier written by S. Roy Kaufman
 * [Vision bear fruit ](/2015/04/Vison-Bears-Fruit.pdf) -- September 29th, 2016 <em>Rural Alternatives </em>article in the Freeman Courier written by Dennis Lehmann
 
+## Useful Links
+
+### Local Foods Resources
+
+* Freeman Farmer's Market
+* [South Dakota Food Cooperative][33]
+
+### Rural Advocacy Links
+
+* [Dakota Rural Action][34] &#8211; Some description about the source
+* [Center for Rural Affairs][35] &#8211; Nebraska based organization that specializes in advocating for rural American life
+
+ [1]: http://sdlocalfood.org/shop/
+ [2]: http://dakotarural.org/
+ [3]: http://www.cfra.org/
 
  [1]: /2018/03/May-2017-Minutes.doc
  [2]: /2018/03/June-2017-Minutes.doc
@@ -136,3 +151,7 @@ date: 2015-04-30T22:39:46+00:00
  [30]: /2015/04/SUCCESSFUL-AND-AWARD-WINNING-FARM-FAMILY.doc
  [31]: http://www.wsbuffalo.com/uploads/4/3/5/6/43562113/publication.pdf "WINDSTONE BUFFALO COURIER ARTICLE"
  [32]: /2015/04/RURAL-RECONNAISSANCE-40.-How-Does-a-Rural-Community-Cohere1.docx
+ [33]: http://sdlocalfood.org/shop/
+ [34]: http://dakotarural.org/
+ [35]: http://www.cfra.org/
+
