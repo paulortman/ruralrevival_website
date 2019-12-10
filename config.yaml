@@ -1,0 +1,131 @@
+baseURL: "http://ruralrevival.org/"
+languageCode: "en-us"
+title: "Rural Revival"
+theme: hugo-universal-theme
+
+defaultContentLanguage: en
+#disqusShortname: devcows
+googleAnalytics: ''
+paginate: 10
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: news
+      name: News
+      url: /news/
+      weight: 3
+    - identifier: documents
+      name: Documents
+      url: /documents/
+      weight: 5
+    - identifier: goals
+      name: Goals
+      url: /goals/
+      weight: 5
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 6
+  topbar:
+    - weight: 1
+      name: GitHub
+      url: 'https://github.com/devcows/hugo-universal-theme'
+      pre: <i class='fab fa-2x fa-github'></i>
+    - weight: 2
+      name: Facebook
+      url: 'http://facebook.com'
+      pre: <i class='fab fa-2x fa-facebook'></i>
+    - weight: 3
+      name: Twitter
+      url: 'http://twitter.com'
+      pre: <i class='fab fa-2x fa-twitter'></i>
+    - weight: 4
+      name: Email
+      url: 'mailto:your@email.com'
+      pre: <i class='fas fa-2x fa-envelope'></i>
+params:
+  viewMorePostLink: /news/
+  author: RuralRevival
+  defaultKeywords:
+    - devows
+    - hugo
+    - go
+  mainSections:
+    - post
+  defaultDescription: Site template made by devcows using hugo
+  facebook_site: ''
+  twitter_site: GoHugoIO
+  default_sharing_image: img/sharing-default.png
+  googleMapsApiKey: AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y
+  style: green
+  email: your@email.com
+  contact_form_ajax: false
+  about_us: Rural Revival is a rural issues advocacy and educational group based in Freeman SD, USA.  All people are welcome to join.
+  copyright: 'Copyright (c) 2011 - 2020, Rural Revival; all rights reserved.'
+  date_format: 'Jan 2, 2006'
+  logo: img/logo.png
+  logo_small: img/logo-small.png
+  address: |-
+    <p><strong>Universal Ltd.</strong>
+            <br>13/25 New Avenue
+            <br>Newtown upon River
+            <br>45Y 73J
+            <br>England
+            <br>
+            <strong>Great Britain</strong>
+          </p>
+
+  latitude: '-12.043333'
+  longitude: '-77.028333'
+  topbar:
+    enable: false
+    text: >-
+      <p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or
+      hello@universal.com.</p>
+            <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+            <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+            </p>
+
+  widgets:
+    categories: true
+    tags: true
+    search: true
+  carousel:
+    enable: true
+  features:
+    enable: false
+  testimonials:
+    enable: false
+    title: Testimonials
+    subtitle: >-
+      We have worked with many clients and we always like to hear they come out
+      from the cooperation happy and satisfied. Have a look what our clients
+      said about us.
+  see_more:
+    enable: false
+    icon: far fa-file-alt
+    title: Do you want to see more?
+    subtitle: >-
+      We have prepared for you more than 40 different HTML pages, including 5
+      variations of homepage.
+    link_url: '#'
+    link_text: Check other homepages
+  clients:
+    enable: false
+    title: Our Clients
+    subtitle: ''
+  recent_posts:
+    enable: true
+    title: The Latest News & Stories
+#    subtitle: >-
+#      Pellentesque habitant morbi tristique senectus et netus et malesuada fames
+#      ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget,
+#      tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.
+#      Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Permalinks:
+  blog: '/blog/:year/:filename/'
+
+
