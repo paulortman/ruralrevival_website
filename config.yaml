@@ -1,4 +1,4 @@
-baseURL: "ruralrevival.org/"
+baseURL: "https://ruralrevival.org/"
 languageCode: "en-us"
 title: "Rural Revival"
 theme: hugo-universal-theme
