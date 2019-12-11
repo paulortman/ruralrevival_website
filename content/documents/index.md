@@ -8,7 +8,16 @@ date: 2015-04-30T22:39:46+00:00
 ## Meeting Minutes
 
 ### 2019
-* None
+ 
+* [November 25 2019 Minutes](/2019/november-25-2019-rural-revival-minutes.pdf)
+* [October 28 2019 Minutes](/2019/october-28-2019-rural-revival-minutes.pdf)
+* [September 23 2019 Minutes](/2019/september-23-2019-rural-revival-minutes.pdf)
+* [August 26 2019 Minutes](/2019/august-26-2019-rural-revival-minutes.pdf)
+* [July 22 2019 Minutes](/2019/july-22-2019-rural-revival-minutes.pdf)
+* [June 24 2019 Rural Revival Annual Meeting Minutes](/2019/june-24-2019-rural-revival-annual-meeting-minutes.pdf)
+* [June 24 2019 Minutes](/2019/june-24-2019-rural-revival-minutes.pdf)
+* [April 22 2019 Minutes](/2019/april-22-2019-rural-revival-minutes.pdf)
+
 
 ### 2018
 
