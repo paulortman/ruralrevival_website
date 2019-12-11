@@ -1,0 +1,67 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+.jumbotron {
+  background: url('../img/rye.jpg') center center repeat;
+}
+.home-carousel {
+  background: url('../img/rye.jpg') center center repeat;
+}
+.home-carousel .dark-mask{
+   opacity: 0.5;
+}
+#post-content div.picture {
+    margin: 1em 0 1em 0;
+}
+#post-content div.picture img {
+  width: 100%;
+  max-width: available;
+}
+
+#post-content {
+  column-width: 20em;
+  column-rule: 1px solid #4e555b;
+  column-gap: 2em;
+}
+#post-content .attribution,
+#post-content .picture {
+  column-span: all;
+}
+
+#post-content>p:first-of-type {
+    margin-top: 3em;
+}
+#post-content>p:first-of-type:first-letter {
+  font-size: 400%;
+  position: relative;
+  line-height: 20%;
+}
+
+#heading-breadcrumbs h1 {
+  font-variant-caps: small-caps;
+  text-transform: none;
+}
+
+#post-content .attribution p {
+  border-top: 1px dashed #4e555b;
+  border-bottom: 1px dashed #4e555b;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  padding: 1em;
+  margin: 1em;
+}
+
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+  margin: 5px;
+}
