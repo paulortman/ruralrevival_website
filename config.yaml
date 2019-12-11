@@ -69,17 +69,12 @@ params:
   logo: img/logo.png
   logo_small: img/logo-small.png
   address: |-
-    <p><strong>Universal Ltd.</strong>
-            <br>13/25 New Avenue
-            <br>Newtown upon River
-            <br>45Y 73J
-            <br>England
-            <br>
-            <strong>Great Britain</strong>
+    <p><strong>Rural Revival</strong>
+            <br>Freeman, SD 57029
           </p>
 
-  latitude: '-12.043333'
-  longitude: '-77.028333'
+  latitude: '43.3520786'
+  longitude: '-97.4372844'
   topbar:
     enable: false
     text: >-
@@ -91,8 +86,8 @@ params:
 
   widgets:
     categories: true
-    tags: true
-    search: true
+    tags: false
+    search: false
   carousel:
     enable: true
   features:
