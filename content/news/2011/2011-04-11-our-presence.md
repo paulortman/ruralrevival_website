@@ -1,6 +1,6 @@
 ---
 title: Our Presence
-author: paul
+author: Paul Ortman
 type: post
 date: 2011-04-11T01:10:21+00:00
 url: /2011/04/our-presence/
@@ -22,5 +22,5 @@ As for this website/blog, we hope that it will allow others to get information a
 of activities and education. We&#8217;ll likely be posting somewhat irregularly with bits of news we feel should be
 shared and that pertain to our mission and goals.
 
- [1]: http://ruralrevival.org/mission-statement/ "Mission Statement"
- [2]: http://ruralrevival.org/goals/ "Goals"
+ [1]: /mission-statement/ "Mission Statement"
+ [2]: /goals/ "Goals"

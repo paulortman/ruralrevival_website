@@ -1,6 +1,6 @@
 ---
 title: Meeting Times
-author: paul
+author: Paul Ortman
 type: page
 date: 2011-04-11T01:09:01+00:00
 

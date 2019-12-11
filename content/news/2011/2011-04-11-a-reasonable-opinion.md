@@ -1,15 +1,10 @@
 ---
 title: A reasonable opinion
-author: paul
+author: Paul Ortman
 type: post
 date: 2011-04-11T01:25:54+00:00
 url: /2011/04/a-reasonable-opinion/
 featured_image: /wp-content/uploads/2011/04/UN-150x141.jpg
-categories:
-  - news
-tags:
-  - external news
-  - local food production
 
 --- 
 

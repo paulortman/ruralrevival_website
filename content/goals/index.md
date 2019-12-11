@@ -1,6 +1,6 @@
 ---
 title: Goals
-author: paul
+author: Paul Ortman
 type: page
 date: 2011-04-11T00:59:47+00:00
 

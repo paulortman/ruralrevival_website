@@ -1,6 +1,6 @@
 ---
 title: Program on Generational Land Transfers
-author: paul
+author: Paul Ortman
 type: post
 date: 2011-05-02T00:32:24+00:00
 url: /2011/05/program-on-generational-land-transfers/

@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-author: paul
+author: Paul Ortman
 type: page
 date: 2011-04-11T01:08:38+00:00
 

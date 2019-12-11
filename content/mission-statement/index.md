@@ -1,6 +1,6 @@
 ---
 title: Mission Statement
-author: paul
+author: Paul Ortman
 type: page
 date: 2011-04-11T00:51:39+00:00
 

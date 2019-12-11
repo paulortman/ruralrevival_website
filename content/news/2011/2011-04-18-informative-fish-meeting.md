@@ -1,6 +1,6 @@
 ---
 title: Informative Fish Meeting
-author: paul
+author: Paul Ortman
 type: post
 date: 2011-04-18T01:56:07+00:00
 url: /2011/04/informative-fish-meeting/

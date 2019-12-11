@@ -6,7 +6,7 @@ date: 2017-02-03T20:05:33+00:00
 url: /2017/02/keeping-those-fields-covered/
 summary: For the Ortmans, crop diversity & rotations are essential
 categories:
-  - Uncategorized
+  - Rural Alternatives
 attribution: The following article was featured in the The [Freeman Courier](http://freemansd.com) in January 2017, as part of the feature "Rural Alternatives".
 ---
 
