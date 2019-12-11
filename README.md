@@ -20,6 +20,8 @@ notified of the changes, run the Hugo command and deploy the site live.
 
 ## Hosting
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b5ce682c-b141-4836-ad58-8937aae94ddb/deploy-status)](https://app.netlify.com/sites/distracted-yalow-765971/deploys)
+
 Netlify is hosting the site, and looking directly [at the repository][1] for changes is deploying the automatically.
 
 [1]: https://github.com/paulortman/ruralrevival_website
