@@ -1,11 +1,16 @@
 ---
 title: Meeting Minutes and Documents
-author: Nathan Preheim
+author: Paul Ortman
 type: page
 date: 2015-04-30T22:39:46+00:00
 
 ---
 ## Meeting Minutes
+
+### 2020
+
+* [January 27, 2020 Minutes](/2020/january-27-2020-rural-revival-minutes.pdf)
+
 
 ### 2019
  
@@ -124,9 +129,6 @@ date: 2015-04-30T22:39:46+00:00
 * [Dakota Rural Action][34] &#8211; Some description about the source
 * [Center for Rural Affairs][35] &#8211; Nebraska based organization that specializes in advocating for rural American life
 
- [1]: http://sdlocalfood.org/shop/
- [2]: http://dakotarural.org/
- [3]: http://www.cfra.org/
 
  [1]: /2018/03/May-2017-Minutes.doc
  [2]: /2018/03/June-2017-Minutes.doc

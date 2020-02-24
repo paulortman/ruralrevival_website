@@ -14,15 +14,16 @@ directory).
 
 If developing locally, running `hugo serve` from this base directory will allow for viewing edits very quickly.
 
-To publish to the site, all one needs to do is commit changes to the master branch on github and Netlify will be 
-notified of the changes, run the Hugo command and deploy the site live.
+To publish to the site, all one needs to do is commit changes to the master branch on github.  Netlify will be 
+notified of the changes, and will take care of running the Hugo command and deploy the site live.
 
 
 ## Hosting
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b5ce682c-b141-4836-ad58-8937aae94ddb/deploy-status)](https://app.netlify.com/sites/distracted-yalow-765971/deploys)
 
-Netlify is hosting the site, and looking directly [at the repository][1] for changes is deploying the automatically.
+Netlify is hosting the site, and looking directly [at the repository][1] for changes and is deploying them
+automatically.
 
 [1]: https://github.com/paulortman/ruralrevival_website
 
