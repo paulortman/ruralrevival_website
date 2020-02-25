@@ -42,10 +42,10 @@ date: 2015-04-30T22:39:46+00:00
 
 ### 2017
 
-* [January 2017 Minutes](/2015/04/170102-Minutes.doc)
-* [February 2017 Minutes](/2017/07/170206-Minutes.doc)
-* [March 2017 Minutes](/2017/07/March-2017-Minutes.doc)
-* [April 2017 Minutes](/2017/07/April-2017-Minutes.doc)
+* [January 2017 Minutes](/2015/04/170102-Minutes.pdf)
+* [February 2017 Minutes](/2017/07/170206-Minutes.pdf)
+* [March 2017 Minutes](/2017/07/March-2017-Minutes.pdf)
+* [April 2017 Minutes](/2017/07/April-2017-Minutes.pdf)
 * [May 2017 Minutes][1]
 * [June 2017 Minutes][2]
 * [July 2017 Minutes][3]
@@ -56,42 +56,42 @@ date: 2015-04-30T22:39:46+00:00
 
 ### 2016
 
-* [February 2016 Minutes](/2015/04/160201-Minutes.doc)
-* [March 2016 Minutes](/2015/04/160307-Minutes.doc)
-* [April 2016 Minutes](/2015/04/160404-Minutes.doc)
-* [May 2016 Minutes](/2015/04/160502-Minutes.doc)
-* [June 2016 Minutes](/2015/04/160606-Minutes.doc)
-* [2016 Annual Meeting](/2015/04/160606-Annual-Mtg.doc)
-* [August 2016 Minutes](/2015/04/160801-Minutes.doc)
-* [September 2016 Minutes](/2015/04/160905-Minutes.doc)
-* [October 2016 Minutes](/2015/04/161003-Minutes.doc)
-* [November 2016 Minutes](/2015/04/161106-Minutes.doc)
-* [December 2016 Minutes](/2015/04/161205-Minutes.doc)
+* [February 2016 Minutes](/2015/04/160201-Minutes.pdf)
+* [March 2016 Minutes](/2015/04/160307-Minutes.pdf)
+* [April 2016 Minutes](/2015/04/160404-Minutes.pdf)
+* [May 2016 Minutes](/2015/04/160502-Minutes.pdf)
+* [June 2016 Minutes](/2015/04/160606-Minutes.pdf)
+* [2016 Annual Meeting](/2015/04/160606-Annual-Mtg.pdf)
+* [August 2016 Minutes](/2015/04/160801-Minutes.pdf)
+* [September 2016 Minutes](/2015/04/160905-Minutes.pdf)
+* [October 2016 Minutes](/2015/04/161003-Minutes.pdf)
+* [November 2016 Minutes](/2015/04/161106-Minutes.pdf)
+* [December 2016 Minutes](/2015/04/161205-Minutes.pdf)
 
 ### 2015
 
-* [February 2015 Minutes](/2015/04/150202-Minutes.doc)
-* [March 2015 Minutes](/2015/04/150304-Minutes.doc)
-* [April 2015 Minutes](/2015/04/150406-Minutes.doc)
-* [May 2015 Minutes](/2015/04/150504-Minutes.doc)
-* [June 2015 Minutes](/2015/04/150602-Minutes.doc)
-* [June 2015 Annual Mtg](/2015/04/150602-Annual-Mtg.doc)
-* [July 2015 Minutes](/2015/04/150706-Minutes.doc)
-* [Aug 2015 Minutes](/2015/04/150803.doc)
-* [Sept 2015 Minutes](/2015/04/150907.doc)
-* [Oct 2015 Minutes](/2015/04/151005-Minutes.doc)
-* [Nov 2015 Minutes](/2015/04/151102-Minutes.doc)
-* [December 2015 Minutes](/2015/04/151207-Minutes.doc)
+* [February 2015 Minutes](/2015/04/150202-Minutes.pdf)
+* [March 2015 Minutes](/2015/04/150304-Minutes.pdf)
+* [April 2015 Minutes](/2015/04/150406-Minutes.pdf)
+* [May 2015 Minutes](/2015/04/150504-Minutes.pdf)
+* [June 2015 Minutes](/2015/04/150602-Minutes.pdf)
+* [June 2015 Annual Mtg](/2015/04/150602-Annual-Mtg.pdf)
+* [July 2015 Minutes](/2015/04/150706-Minutes.pdf)
+* [Aug 2015 Minutes](/2015/04/150803.pdf)
+* [Sept 2015 Minutes](/2015/04/150907.pdf)
+* [Oct 2015 Minutes](/2015/04/151005-Minutes.pdf)
+* [Nov 2015 Minutes](/2015/04/151102-Minutes.pdf)
+* [December 2015 Minutes](/2015/04/151207-Minutes.pdf)
 
 ### 2014
 
 * [Feb 2014 Minutes](/2015/04/140203-RR-Meeting-Minutes.pdf)
 * [June 2014 RR Annual Meeting Minutes](/2015/04/140602-RR-Annual-Meeting-Minutes1.pdf)
-* [Aug 2014 Minutes](/2015/04/140804-Rural-Revival-Minutes.doc)
-* [Sept 2014 Minutes](/2015/04/140901-Minutes1.doc)
-* [October 2014 Minutes](/2015/04/141006-Minutes.doc)
-* [November 2014 Minutes](/2015/04/141103-Minutes.doc)
-* [December 2014 Minutes](/2015/04/141201-Minutes.doc)
+* [Aug 2014 Minutes](/2015/04/140804-Rural-Revival-Minutes.pdf)
+* [Sept 2014 Minutes](/2015/04/140901-Minutes1.pdf)
+* [October 2014 Minutes](/2015/04/141006-Minutes.pdf)
+* [November 2014 Minutes](/2015/04/141103-Minutes.pdf)
+* [December 2014 Minutes](/2015/04/141201-Minutes.pdf)
 
 ## Related Documents
 
@@ -130,36 +130,36 @@ date: 2015-04-30T22:39:46+00:00
 * [Center for Rural Affairs][35] &#8211; Nebraska based organization that specializes in advocating for rural American life
 
 
- [1]: /2018/03/May-2017-Minutes.doc
- [2]: /2018/03/June-2017-Minutes.doc
- [3]: /2018/03/July-2017-Minutes.doc
- [4]: /2018/03/August-2017-Minutes.doc
- [5]: /2018/03/October-2017-Minutes.doc
- [6]: /2018/03/November-2017-Minutes.doc
- [7]: /2018/03/December-2017-Miniutes.doc
- [8]: /2018/03/January-2018-Minutes.doc
- [9]: /2018/03/February-2018-Minutes-1.doc
- [10]: /2018/12/March-2018-Minutes.doc
- [11]: /2018/12/April-2018-Minutes.doc
- [12]: /2018/12/May-28-2018-Rural-Revival-Minutes-.doc
- [13]: /2018/12/June-14-2018-Board-Meeting-Minutes.doc
- [14]: /2018/12/June-25-2018-Board-Meeting-Minutes.doc
- [15]: /2018/12/June-25-2018-Rural-Revival-Minutes-.doc
- [16]: /2018/12/June-25-2018-Annual-Mtg.doc
- [17]: /2018/12/July-23-2018-Rural-Revival-Minutes-.doc
- [18]: /2018/12/August-27-2018-Rural-Revival-Minutes-.doc
- [19]: /2018/12/September-24-2018-Rural-Revival-Minutes-.doc
- [20]: /2018/12/October-22-2018-Rural-Revival-Minutes-.doc
- [21]: /2019/01/PROPOSAL-FOR-COMMUNITY-FARMLAND-TRUST.doc
- [22]: /2019/01/VALUES-PURSUED-BY-A-COMMUNITY-FARMLAND-TRUST.doc
- [23]: /2019/01/Argus-Leader-article-on-Regenerative-Ag.doc
- [24]: /2019/01/Freeman-Community-Farmland-Trust-Articles-of-Incorporation-draft.doc
- [25]: /2019/01/Farmland-Trust-By-Laws-draft.doc
- [26]: /2019/01/EDITS-TO-JOHN-KOCHS-BYLAWS.doc
- [27]: /2015/04/RURAL-RECONNAISSANCE-39.-Agrarian-Culture-and-Education1.doc
+ [1]: /2018/03/May-2017-Minutes.pdf
+ [2]: /2018/03/June-2017-Minutes.pdf
+ [3]: /2018/03/July-2017-Minutes.pdf
+ [4]: /2018/03/August-2017-Minutes.pdf
+ [5]: /2018/03/October-2017-Minutes.pdf
+ [6]: /2018/03/November-2017-Minutes.pdf
+ [7]: /2018/03/December-2017-Miniutes.pdf
+ [8]: /2018/03/January-2018-Minutes.pdf
+ [9]: /2018/03/February-2018-Minutes-1.pdf
+ [10]: /2018/12/March-2018-Minutes.pdf
+ [11]: /2018/12/April-2018-Minutes.pdf
+ [12]: /2018/12/May-28-2018-Rural-Revival-Minutes-.pdf
+ [13]: /2018/12/June-14-2018-Board-Meeting-Minutes.pdf
+ [14]: /2018/12/June-25-2018-Board-Meeting-Minutes.pdf
+ [15]: /2018/12/June-25-2018-Rural-Revival-Minutes-.pdf
+ [16]: /2018/12/June-25-2018-Annual-Mtg.pdf
+ [17]: /2018/12/July-23-2018-Rural-Revival-Minutes-.pdf
+ [18]: /2018/12/August-27-2018-Rural-Revival-Minutes-.pdf
+ [19]: /2018/12/September-24-2018-Rural-Revival-Minutes-.pdf
+ [20]: /2018/12/October-22-2018-Rural-Revival-Minutes-.pdf
+ [21]: /2019/01/PROPOSAL-FOR-COMMUNITY-FARMLAND-TRUST.pdf
+ [22]: /2019/01/VALUES-PURSUED-BY-A-COMMUNITY-FARMLAND-TRUST.pdf
+ [23]: /2019/01/Argus-Leader-article-on-Regenerative-Ag.pdf
+ [24]: /2019/01/Freeman-Community-Farmland-Trust-Articles-of-Incorporation-draft.pdf
+ [25]: /2019/01/Farmland-Trust-By-Laws-draft.pdf
+ [26]: /2019/01/EDITS-TO-JOHN-KOCHS-BYLAWS.pdf
+ [27]: /2015/04/RURAL-RECONNAISSANCE-39.-Agrarian-Culture-and-Education1.pdf
  [28]: /2015/04/RURAL-RECONNAISSANCE-40.-How-Does-a-Rural-Community-Cohere.docx
- [29]: /2015/04/SIX-MILLION-CHICKENS.doc
- [30]: /2015/04/SUCCESSFUL-AND-AWARD-WINNING-FARM-FAMILY.doc
+ [29]: /2015/04/SIX-MILLION-CHICKENS.pdf
+ [30]: /2015/04/SUCCESSFUL-AND-AWARD-WINNING-FARM-FAMILY.pdf
  [31]: http://www.wsbuffalo.com/uploads/4/3/5/6/43562113/publication.pdf "WINDSTONE BUFFALO COURIER ARTICLE"
  [32]: /2015/04/RURAL-RECONNAISSANCE-40.-How-Does-a-Rural-Community-Cohere1.docx
  [33]: http://sdlocalfood.org/shop/

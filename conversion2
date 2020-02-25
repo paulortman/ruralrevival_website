@@ -1,0 +1,7 @@
+set -x
+for i in $(cat docs_to_convert); 
+do 
+    doc=$(basename $i)
+    pdf=$(basename $i .doc).pdf
+    cat md_files_to_update | xargs perl -i -p -e "s#$doc#$pdf#g;"
+done;

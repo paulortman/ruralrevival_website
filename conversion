@@ -1,0 +1,6 @@
+set -x
+for i in $(cat docs_to_convert); 
+do 
+    pdf=$(dirname $i)/$(basename $i .doc).pdf
+    /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf --outdir $(dirname $i) $i; 
+done;
