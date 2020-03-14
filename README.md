@@ -18,6 +18,12 @@ To publish to the site, all one needs to do is commit changes to the master bran
 notified of the changes, and will take care of running the Hugo command and deploy the site live.
 
 
+## Adding Meeting Minutes or Other Static Content
+
+Meeting minutes should be saved as a PDF and then have their filenames slugified (with a little local utility 
+`~/.local/slugfiy`) and placed into the `static/<year>/` folder in the file structure.
+
+
 ## Hosting
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b5ce682c-b141-4836-ad58-8937aae94ddb/deploy-status)](https://app.netlify.com/sites/distracted-yalow-765971/deploys)
