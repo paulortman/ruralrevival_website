@@ -8,7 +8,8 @@ categories:
   - Rural Reconnaissance
 
 ---
-![RR Loretta Epp][1]
+{{<img src="loretta-horse.jpg" alt="Lorreta on Horse" 
+    caption="Loretta Epp age 2 sitting on a horse" >}}
 
 Many regular readers of this column may know that my wife and companion for the
 past 43 years died in October. Loretta was a beautiful and gifted woman of
@@ -63,4 +64,3 @@ me. This is the setting where people are best nurtured to be whole, well-rounded
 people, the kind of people who themselves nurture and sustain the common life of
 a community wherever they live.
 
- [1]: http://ruralrevival.org/wp-content/uploads/2013/03/RR-Loretta-Epp.bmp
