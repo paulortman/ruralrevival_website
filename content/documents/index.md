@@ -10,6 +10,7 @@ date: 2015-04-30T22:39:46+00:00
 ### 2020
 
 <!--- * **DRAFT** [February 24, 2020 Minutes](/2020/february-24-2020-rural-revival-minutes.pdf) -->
+* **DRAFT** [May 25, 2020 Minutes](/2020/may-25-2020-rural-revival-minutes.pdf)
 * [April 27, 2020 Minutes](/2020/april-27-2020-rural-revival-minutes.pdf)
 * [February 24, 2020 Minutes](/2020/february-24-2020-rural-revival-minutes.pdf)
 * [January 27, 2020 Minutes](/2020/january-27-2020-rural-revival-minutes.pdf)
