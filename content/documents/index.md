@@ -101,6 +101,7 @@ date: 2015-04-30T22:39:46+00:00
 
 ## Related Documents
 
+1)  [Rural Revival By-Laws - 2018](/2018/06/rr-by-laws-june-2018.pdf)
 1)  [PROPOSAL FOR COMMUNITY FARMLAND TRUST][21] 
 1)  [Values pursued by a community farmland trust][22] 
 1)  [Argus Leader article on Regenerative Ag][23]
