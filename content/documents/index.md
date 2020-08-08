@@ -10,8 +10,9 @@ date: 2015-04-30T22:39:46+00:00
 ### 2020
 
 <!--- * **DRAFT** [February 24, 2020 Minutes](/2020/february-24-2020-rural-revival-minutes.pdf) -->
-* [June 25, 2020 Rural Revival Annual Meeting Minutes](/2020/june-22-2020-rural-revival-annual-meeting-minutes.pdf)
-* [June 25, 2020 Minutes](/2020/june-22-2020-rural-revival-minutes.pdf)
+* **DRAFT** [July 27, 2020 Minutes](/2020/july-27-2020-rural-revival-minutes.pdf)
+* [June 22, 2020 Rural Revival Annual Meeting Minutes](/2020/june-22-2020-rural-revival-annual-meeting-minutes.pdf)
+* [June 22, 2020 Minutes](/2020/june-22-2020-rural-revival-minutes.pdf)
 * [May 25, 2020 Minutes](/2020/may-25-2020-rural-revival-minutes.pdf)
 * [April 27, 2020 Minutes](/2020/april-27-2020-rural-revival-minutes.pdf)
 * [February 24, 2020 Minutes](/2020/february-24-2020-rural-revival-minutes.pdf)
