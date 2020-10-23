@@ -26,21 +26,11 @@
                         {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
-                                <div class="col-md-4">
-                                  <div class="image">
-                                      <a href="{{ .Permalink }}">
-                                          {{ if .Params.banner }}
-                                          {{ $img := .Resources.GetMatch (.Params.banner) }}
-                                          {{ .Scratch.Set "thumb" ($img.Fill "255x200 Center") }}
-                                          {{ $img := .Scratch.Get "thumb" }}
-                                          <img src="{{ $img.RelPermalink }}" class="img-responsive" alt="" >
-                                          {{ else }}
-                                          <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
-                                          {{ end }}
-                                      </a>
-                                  </div>
-                                </div>
+                                {{ if isset .Params "banner" }}
                                 <div class="col-md-8">
+                                {{ else }}
+                                <div class="col-md-12">
+                                {{ end }}
                                     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     <div class="clearfix">
                                         <p class="author-category">
@@ -61,6 +51,22 @@
                                     <p class="intro">{{ .Summary }}</p>
                                     <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
                                     </p>
+                                </div>
+                                <div class="col-md-4">
+                                  <div class="image">
+                                      <a href="{{ .Permalink }}">
+                                          {{ if isset .Params "banner" }}
+                                          {{ $img := .Resources.GetMatch (.Params.banner) }}
+                                          {{ .Scratch.Set "thumb" ($img.Fill "255x200 Center") }}
+                                          {{ $img := .Scratch.Get "thumb" }}
+                                          <img src="{{ $img.RelPermalink }}" class="img-responsive" alt="" >
+                                          {{ else }}
+                                          {{/*
+                                          <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
+                                          */}}
+                                          {{ end }}
+                                      </a>
+                                  </div>
                                 </div>
                             </div>
                         </section>
