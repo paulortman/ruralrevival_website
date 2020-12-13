@@ -10,9 +10,9 @@ A number of our members have agreed to be primary contacts for the group. Feel f
 * Roy Kaufman
     * (605) 925-7430
     * lorokauf@gwtc.net
-* Paul Ortman
-    * (605) 925-7468
-    * paul.ortman@gmail.com
+* Brent Brockmueller
+    * (605) 925-4555
+    * brentbrockmueller@gmail.com
 
 Additionally, we utilize the Google Group [Rural Revival Listserve][1] for distribution of our minutes and other direct
 communication. Feel free to join that mailing list.
