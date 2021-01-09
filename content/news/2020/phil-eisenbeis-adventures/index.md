@@ -6,6 +6,7 @@ date: 2020-12-10T01:11:35+00:00
 categories:
   - Rural Alternatives
 attribution: The following article was featured in the [Freeman Courier](http://freemansd.com) on December 10, 2020
+banner: phils-chicken-coop.jpg
 
 ---
 If you have ever driven on old 44, just southeast of town, you might have noticed in the middle of the fields, a small house-like structure.  And perhaps on a different day you spotted that same structure but most definitely in a different field. Happily, your sense are, in fact, sound and can be explained by an uncommon agricultural practice: the mobile chicken coop.  While not a new concept, this unique and innovative practice is certainly not standard amongst the farms one finds in South Dakota.
@@ -33,6 +34,8 @@ Eisenbeis has a sizable amount of young laying hens and he also has a good numbe
 
 More about the mobile chicken coop
 ----------------------------------
+
+{{< img src="phils-chicken-coop.jpg" alt="Phil's Chicken Coop" caption="Philip Eisenbeis standing beside the mobile chicken coop he built." >}}
 
 Eisenbeis built his mobile chicken coop with help from his father last summer. Since then his older chickens have called it their home, forming a symbiotic relationship with the cows. Eisenbeis moves the coop about every two days to a different pasture, following a drove of cows.  The idea behind a mobile coop is that cows drop a lot of manure, which flies then lay eggs in.  The chickens peck at the cow pies, eating the maggots and any undigested feed or seed.  This helps control the pests and all of their scratching effectively spreads out the manure, which is more beneficial to the pasture than having large piles of cow pies.  The coop has a wire mesh floor so the chicken droppings fall directly to the ground, further fertilizing the fields.  When it is time to move to a different area, Eisenbeis drives a tractor or pickup truck that hitches to the coop and parks it in a different grazing location.  While Eisenbeis is able to pursue organic certification for his younger hens, this older brood is not certifiable because they were not raised organically from the beginning of their life.
 
