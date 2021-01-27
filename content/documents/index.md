@@ -7,10 +7,12 @@ date: 2015-04-30T22:39:46+00:00
 ---
 ## Meeting Minutes
 
+### 2021
+<!--- * **DRAFT** [February 24, 2020 Minutes](/2020/february-24-2020-rural-revival-minutes.pdf) -->
+
 ### 2020
 
-<!--- * **DRAFT** [February 24, 2020 Minutes](/2020/february-24-2020-rural-revival-minutes.pdf) -->
-* **DRAFT** [Dec 7, 2020 Minutes](/2020/december-7-2020-rural-revival-minutes.pdf)
+* [Dec 7, 2020 Minutes](/2020/december-7-2020-rural-revival-minutes.pdf)
 * [October 26, 2020 Minutes](/2020/october-26-2020-rural-revival-minutes.pdf)
 * [September 28, 2020 Minutes](/2020/september-28-2020-rural-revival-minutes.pdf)
 * [August 24, 2020 Minutes](/2020/august-24-2020-rural-revival-minutes.pdf)
