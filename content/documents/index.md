@@ -8,7 +8,8 @@ date: 2015-04-30T22:39:46+00:00
 ## Meeting Minutes
 
 ### 2021
-<!--- * **DRAFT** [January 25, 2021 Minutes](/2021/january-25-2021-rural-revival-minutes.pdf) -->
+<!--- * **DRAFT** [February 22, 2021 Minutes](/2021/february-22-2021-rural-revival-minutes.pdf) -->
+* **DRAFT** [February 22, 2021 Minutes](/2021/february-22-2021-rural-revival-minutes.pdf)
 * [January 25, 2021 Minutes](/2021/january-25-2021-rural-revival-minutes.pdf)
 
 
