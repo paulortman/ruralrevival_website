@@ -64,7 +64,7 @@ params:
   email: your@email.com
   contact_form_ajax: false
   about_us: Rural Revival is a rural issues advocacy and educational group based in Freeman SD, USA.  All people are welcome to join.
-  copyright: 'Copyright (c) 2011 - 2020, Rural Revival; all rights reserved.'
+  copyright: 'Copyright (c) 2011 - 2021, Rural Revival; all rights reserved.'
   date_format: 'Jan 2, 2006'
   logo: img/logo.png
   logo_small: img/logo-small.png
