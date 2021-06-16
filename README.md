@@ -4,8 +4,8 @@ Created in Dec 2019, this is a port of our old WordPress data over to a [Hugo](h
 
 ## Content Layout
 
-The majority of the content is in the `content` folder.  Within that are folders and Markdown formated files for each 
-pages/news article.  Generally, news stories are stored as a markdown file in a named folder organized by year 
+The majority of the content is in the `content` folder.  Within that are folders and Markdown formatted files for each 
+page/news article.  Generally, news stories are stored as a markdown file in a named folder organized by year 
 alongside their associated files/images.  See `content/news/2019` as examples to follow.
 
 Some historic documents/attachments are in the `static` directory.  These could be moved, but haven't been.  If minutes 
