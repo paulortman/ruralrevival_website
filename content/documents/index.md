@@ -8,8 +8,8 @@ date: 2015-04-30T22:39:46+00:00
 ## Meeting Minutes
 
 ### 2022
-<!-- * _**DRAFT** [November 22, 2021 Minutes](/2021/november-22-2021-rural-revival-minutes.pdf)_ -->
 
+* _**DRAFT:** [March 28, 2022 Minutes](/2022/march-28-2022-rural-revival-minutes.pdf)_
 * [February 28, 2022 Minutes](/2022/february-28-2022-rural-revival-minutes.pdf)
 * [January 24, 2022 Minutes](/2022/january-24-2022-rural-revival-minutes.pdf)
 
