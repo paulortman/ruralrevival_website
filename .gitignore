@@ -2,3 +2,4 @@
 resources
 content/resources
 public
+.hugo_build.lock
