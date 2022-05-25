@@ -9,7 +9,7 @@ date: 2015-04-30T22:39:46+00:00
 
 ### 2022
 * _**DRAFT:** [April 25, 2022 Minutes](/2022/april-25-2022-rural-revival-minutes.pdf)_
-* [March 28, 2022 Minutes](/2022/march-28-2022-rural-revival-minutes.pdf)_
+* [March 28, 2022 Minutes](/2022/march-28-2022-rural-revival-minutes.pdf)
 * [February 28, 2022 Minutes](/2022/february-28-2022-rural-revival-minutes.pdf)
 * [January 24, 2022 Minutes](/2022/january-24-2022-rural-revival-minutes.pdf)
 
