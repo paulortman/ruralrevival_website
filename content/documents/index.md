@@ -133,28 +133,28 @@ date: 2015-04-30T22:39:46+00:00
 
 ## Related Documents
 
-1)  [Rural Revival By-Laws - 2018](/2018/06/rr-by-laws-june-2018.pdf)
-1)  [PROPOSAL FOR COMMUNITY FARMLAND TRUST][21] 
-1)  [Values pursued by a community farmland trust][22] 
-1)  [Argus Leader article on Regenerative Ag][23]
-1)  [Freeman Community Farmland Trust Articles of Incorporation draft][24] 
-1)  [Farmland Trust By-Laws draft][25]
-1)  [EDITS TO JOHN KOCH&#8217;S BYLAWS][26]
-1)  [RURAL RECONNAISSANCE, #39. Agrarian Culture and Education][27]
-1)  [RURAL RECONNAISSANCE, #40.][28] 
-1)  [Six Million Chickens!][29]
-1)  [SUCCESSFUL AND AWARD-WINNING FARM FAMILY][30]
-1)  [WINDSTONE BUFFALO COURIER ARTICLE ][31]
-1)  [How Does a Rural Community Cohere][32]
+1) [Rural Revival By-Laws - 2018](/2018/06/rr-by-laws-june-2018.pdf)
+2) [PROPOSAL FOR COMMUNITY FARMLAND TRUST][21]
+3) [Values pursued by a community farmland trust][22]
+4) [Argus Leader article on Regenerative Ag][23]
+5) [Freeman Community Farmland Trust Articles of Incorporation draft][24]
+6) [Farmland Trust By-Laws draft][25]
+7) [EDITS TO JOHN KOCH&#8217;S BYLAWS][26]
+8) [RURAL RECONNAISSANCE, #39. Agrarian Culture and Education][27]
+9) [RURAL RECONNAISSANCE, #40.][28]
+10) [Six Million Chickens!][29]
+11) [SUCCESSFUL AND AWARD-WINNING FARM FAMILY][30]
+12) [WINDSTONE BUFFALO COURIER ARTICLE ][31]
+13) [How Does a Rural Community Cohere][32]
 
 ## Newspaper Articles
 
-* [Reflections on home and the Turkey Ridge Valley](http://www.freemansd.com/opinion/article_4bf85b80-bf84-11e5-93a2-93b90d767e55.html) -- January 20, 2016.  Letter to the editor from Lyle Preheim
-* [A local food enterprise. ](/2015/04/A-local-food-enterprise.pdf) --  May 26th, 2016.  <em>Rural Alternatives </em>article in the Freeman Courier written by S. Roy Kaufman
-* [The goose that laid the golden egg](/2015/04/Goose-Golden-Egg.pdf) --   June 30th, 2016.  <em>Rural Alternatives </em>article in the Freeman Courier written by Nathaniel Preheim of Windstone Buffalo Company
-* [The humming of bees is as sweet as honey](/2015/04/The-humming-of-bees-is-as-sweet-as-honey.pdf) -- July 28th, 2016.  <em>Rural Alternatives </em>article in the Freeman Courier written by Dawn Rye of The New Era, Parker.
-* [Conventional crops, unconventional practices](/2015/04/Conventional-crops-unconventional-practices.pdf) -- August 25th, 2016 <em>Rural Alternatives </em>article in the Freeman Courier written by S. Roy Kaufman
-* [Vision bear fruit ](/2015/04/Vison-Bears-Fruit.pdf) -- September 29th, 2016 <em>Rural Alternatives </em>article in the Freeman Courier written by Dennis Lehmann
+* [Reflections on home and the Turkey Ridge Valley](http://www.freemansd.com/opinion/article_4bf85b80-bf84-11e5-93a2-93b90d767e55.html) -- January 20, 2016. Letter to the editor from Lyle Preheim
+* [A local food enterprise. ](/2015/04/A-local-food-enterprise.pdf) -- May 26th, 2016. <em>Rural Alternatives </em>article in the Freeman Courier written by S. Roy Kaufman
+* [The goose that laid the golden egg](/2015/04/Goose-Golden-Egg.pdf) --  June 30th, 2016. <em>Rural Alternatives </em>article in the Freeman Courier written by Nathaniel Preheim of Windstone Buffalo Company
+* [The humming of bees is as sweet as honey](/2015/04/The-humming-of-bees-is-as-sweet-as-honey.pdf) -- July 28th, 2016. <em>Rural Alternatives </em>article in the Freeman Courier written by Dawn Rye of The New Era, Parker.
+* [Conventional crops, unconventional practices](/2015/04/Conventional-crops-unconventional-practices.pdf) -- August 25th, 2016 <em>Rural Alternatives </em>article in the Freeman Courier written by S. Roy Kaufman
+* [Vision bear fruit ](/2015/04/Vison-Bears-Fruit.pdf) -- September 29th, 2016 <em>Rural Alternatives </em>article in the Freeman Courier written by Dennis Lehmann
 
 ## Useful Links
 
@@ -165,8 +165,8 @@ date: 2015-04-30T22:39:46+00:00
 
 ### Rural Advocacy Links
 
-* [Dakota Rural Action][34] &#8211; Some description about the source
-* [Center for Rural Affairs][35] &#8211; Nebraska based organization that specializes in advocating for rural American life
+* [Dakota Rural Action][34] -- Some description about the source
+* [Center for Rural Affairs][35] -- Nebraska based organization that specializes in advocating for rural American life
 
 
  [1]: /2018/03/May-2017-Minutes.pdf
