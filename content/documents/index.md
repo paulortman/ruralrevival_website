@@ -8,6 +8,7 @@ date: 2015-04-30T22:39:46+00:00
 ## Meeting Minutes
 
 ### 2023
+* [June 23, 2023 Rural Revival Annual MeetingMinutes](/2023/june-23-2023-rural-revival-annual-meeting-minutes.pdf)
 * [April 24, 2023 Minutes](/2023/april-24-2023-rural-revival-minutes.pdf)
 * [March 27, 2023 Minutes](/2023/march-27-2023-rural-revival-minutes.pdf)
 * [February 27, 2023 Minutes](/2023/february-27-2023-rural-revival-minutes.pdf)
