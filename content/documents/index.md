@@ -7,7 +7,11 @@ date: 2015-04-30T22:39:46+00:00
 ---
 ## Meeting Minutes
 
+### 2024
+* [January 22, 2024 Minutes](/2024/january-22-2024-rural-revival-minutes.pdf)
+
 ### 2023
+* No December Meeting
 * [November 27, 2023 Minutes](/2023/november-27-2023-rural-revival-minutes.pdf)
 * [October 29, 2023 Special Gathering Minutes](/2023/october-29-2023-special-gathering-minutes.pdf)
 * [September 25, 2023 Minutes](/2023/september-25-2023-rural-revival-minutes.pdf)
