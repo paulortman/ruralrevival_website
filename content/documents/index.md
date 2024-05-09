@@ -8,6 +8,7 @@ date: 2015-04-30T22:39:46+00:00
 ## Meeting Minutes
 
 ### 2024
+* [April 22, 2024 Minutes](/2024/april-22-2024-rural-revival-minutes.pdf)
 * [April 1, 2024 Minutes](/2024/april-1-2024-rural-revival-minutes.pdf)
 * [February 26, 2024 Minutes](/2024/february-26-2024-rural-revival-minutes.pdf)
 * [January 22, 2024 Minutes](/2024/january-22-2024-rural-revival-minutes.pdf)
