@@ -8,6 +8,7 @@ date: 2015-04-30T22:39:46+00:00
 ## Meeting Minutes
 
 ### 2024
+* [August 26, 2024 Minutes](/2024/august-26-2024-rural-revival-minutes.pdf)
 * [June 24, 2024 Minutes](/2024/june-24-2024-rural-revival-minutes.pdf)
 * [June 24, 2024 Annual Meeting Minutes](/2024/june-24-2024-rural-revival-annual-meeting-minutes.pdf)
 * [June 24, 2024 Annual Organization Meeting Minutes](/2024/june-24-2024-rural-revival-annual-board-organization-minutes.pdf)
