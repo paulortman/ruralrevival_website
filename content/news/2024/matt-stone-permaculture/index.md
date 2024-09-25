@@ -1,5 +1,5 @@
 ---
-title: Community Visioning Event
+title: Permaculture Training Event
 author: Paul Ortman
 type: post
 date: 2024-09-24T00:01:00+00:00
