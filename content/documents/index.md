@@ -8,6 +8,7 @@ date: 2015-04-30T22:39:46+00:00
 ## Meeting Minutes
 
 ### 2025
+* [February 24, 2025 Minutes](/2025/february-24-2025-rural-revival-minutes.pdf)
 * [January 27, 2025 Minutes](/2025/january-27-2025-rural-revival-minutes.pdf)
 
 ### 2024
