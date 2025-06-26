@@ -8,6 +8,9 @@ date: 2015-04-30T22:39:46+00:00
 ## Meeting Minutes
 
 ### 2025
+* [2024-2025 Treasure's Report](/2025/2024-2025-rural-revival-treasurer-report.pdf)
+* [May 26, 2025 Minutes](/2025/may-26-2025-rural-revival-minutes.pdf)
+* [April 28, 2025 Minutes](/2025/april-28-2025-rural-revival-minutes.pdf)
 * [March 24, 2025 Minutes](/2025/march-24-2025-rural-revival-minutes.pdf)
 * [February 24, 2025 Minutes](/2025/february-24-2025-rural-revival-minutes.pdf)
 * [January 27, 2025 Minutes](/2025/january-27-2025-rural-revival-minutes.pdf)
@@ -85,7 +88,7 @@ date: 2015-04-30T22:39:46+00:00
 
 
 ### 2019
- 
+
 * [November 25 2019 Minutes](/2019/november-25-2019-rural-revival-minutes.pdf)
 * [October 28 2019 Minutes](/2019/october-28-2019-rural-revival-minutes.pdf)
 * [September 23 2019 Minutes](/2019/september-23-2019-rural-revival-minutes.pdf)
@@ -238,4 +241,3 @@ date: 2015-04-30T22:39:46+00:00
  [33]: http://sdlocalfood.org/shop/
  [34]: http://dakotarural.org/
  [35]: http://www.cfra.org/
-
