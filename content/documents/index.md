@@ -8,6 +8,7 @@ date: 2015-04-30T22:39:46+00:00
 ## Meeting Minutes
 
 ### 2025
+* [July 28, 2025 Minutes](/2025/july-28-2025-rural-revival-minutes.pdf)
 * [June 23, 2025 Minutes](/2025/june-23-2025-rural-revival-minutes.pdf)
 * [June 23, 2025 Annual Meeting Minutes](/2025/june-23-2025-rural-revival-annual-meeting-minutes.pdf)
 * [June 23, 2025 Annual Organization Meeting Minutes](/2025/june-23-2025-rural-revival-annual-board-organization-minutes.pdf)
