@@ -1,13 +1,11 @@
-version: '3'
-
 services:
   build:
-    image: klakegg/hugo:0.101.0
+    image: klakegg/hugo:0.111.3
     volumes:
       - ".:/src"
   server:
-    image: klakegg/hugo:0.101.0
-    command: server -DF --disableFastRender
+    image: klakegg/hugo:0.111.3
+    command: server -DF --disableFastRender --watch
     volumes:
       - ".:/src"
     ports:
