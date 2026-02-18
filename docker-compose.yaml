@@ -5,7 +5,7 @@ services:
       - ".:/src"
   server:
     image: klakegg/hugo:0.111.3
-    command: server -DF --disableFastRender --watch
+    command: server -DF --disableFastRender --watch --poll 700ms
     volumes:
       - ".:/src"
     ports:
