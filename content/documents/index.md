@@ -8,6 +8,7 @@ date: 2015-04-30T22:39:46+00:00
 ## Meeting Minutes
 
 ### 2026
+* [April 28, 2026 Minutes](/2026/april-28-2026-rural-revival-minutes.pdf)
 * [March 24, 2026 Minutes](/2026/march-24-2026-rural-revival-minutes.pdf)
 * [January 27, 2026 Minutes](/2026/january-27-2026-rural-revival-minutes.pdf)
 
