@@ -8,6 +8,10 @@ date: 2015-04-30T22:39:46+00:00
 ## Meeting Minutes
 
 ### 2026
+* [July 28, 2026 Minutes](/2026/july-28-2026-rural-revival-minutes.pdf)
+* [June 24, 2026 Minutes](/2026/june-24-2026-rural-revival-minutes.pdf)
+* [June 24, 2026 Annual Organization Meeting Minutes](/2026/june-24-2026-rural-revival-annual-organization-minutes.pdf)
+* [May 26, 2026 Minutes](/2026/may-26-2026-rural-revival-minutes.pdf)
 * [April 28, 2026 Minutes](/2026/april-28-2026-rural-revival-minutes.pdf)
 * [March 24, 2026 Minutes](/2026/march-24-2026-rural-revival-minutes.pdf)
 * [January 27, 2026 Minutes](/2026/january-27-2026-rural-revival-minutes.pdf)
@@ -103,14 +107,14 @@ date: 2015-04-30T22:39:46+00:00
 
 ### 2019
 
-* [November 25 2019 Minutes](/2019/november-25-2019-rural-revival-minutes.pdf)
-* [October 28 2019 Minutes](/2019/october-28-2019-rural-revival-minutes.pdf)
-* [September 23 2019 Minutes](/2019/september-23-2019-rural-revival-minutes.pdf)
-* [August 26 2019 Minutes](/2019/august-26-2019-rural-revival-minutes.pdf)
-* [July 22 2019 Minutes](/2019/july-22-2019-rural-revival-minutes.pdf)
-* [June 24 2019 Rural Revival Annual Meeting Minutes](/2019/june-24-2019-rural-revival-annual-meeting-minutes.pdf)
-* [June 24 2019 Minutes](/2019/june-24-2019-rural-revival-minutes.pdf)
-* [April 22 2019 Minutes](/2019/april-22-2019-rural-revival-minutes.pdf)
+* [November 25, 2019 Minutes](/2019/november-25-2019-rural-revival-minutes.pdf)
+* [October 28, 2019 Minutes](/2019/october-28-2019-rural-revival-minutes.pdf)
+* [September 23, 2019 Minutes](/2019/september-23-2019-rural-revival-minutes.pdf)
+* [August 26, 2019 Minutes](/2019/august-26-2019-rural-revival-minutes.pdf)
+* [July 22, 2019 Minutes](/2019/july-22-2019-rural-revival-minutes.pdf)
+* [June 24, 2019 Rural Revival Annual Meeting Minutes](/2019/june-24-2019-rural-revival-annual-meeting-minutes.pdf)
+* [June 24, 2019 Minutes](/2019/june-24-2019-rural-revival-minutes.pdf)
+* [April 22, 2019 Minutes](/2019/april-22-2019-rural-revival-minutes.pdf)
 
 
 ### 2018
